@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+torch
+torchvision
+segmentation-models-pytorch
+opencv-python
+numpy
+python-multipart
+requests
+streamlit
+folium
+streamlit-folium
+matplotlib
